@@ -17,7 +17,6 @@ This Bash script automates the process of backing up specified directories to a 
 6. [How It Works](#how-it-works)
 7. [Example](#example)
 8. [Contributing](#contributing)
-9. [License](#license)
 
 ---
 
